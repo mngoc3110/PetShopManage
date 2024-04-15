@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVOnCX5VrGlnYIF1eF3q176n4gfOSQi8dZUCZVMSG3UvfQPe3EmwRzLBStDlLoDx7ArLPFtm2V7BXa9Ns+h+bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minhngoc\\Desktop\\Application\\PetManageEnd\\PetManageEnd\\PetManageEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhngoc\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\minhngoc\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\minhngoc\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
